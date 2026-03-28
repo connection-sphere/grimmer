@@ -1,0 +1,8 @@
+{
+	"servers": {
+		"adspower": {
+			"command": "/home/leandro/code1/extras/ruby-adspower-mcp/bin/ruby-adspower-mcp",
+			"args": []
+		}
+	}
+}
